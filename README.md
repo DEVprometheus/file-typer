@@ -9,12 +9,11 @@ https://en.wikipedia.org/wiki/List_of_file_signatures
 
 https://en.wikipedia.org/wiki/Magic_number_%28programming%29
 
-help:
+<b>HELP</b>
 
 [typer] knows: JPEG, PNG, GIF, TIFF, PDF, GZIP file formats now...
 
 usage:
-     typer.py <filename>
-
-
-
+     typer.py < filename > 
+     
+     
